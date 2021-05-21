@@ -3,8 +3,10 @@
 ![TDMovieOut 0](https://user-images.githubusercontent.com/68321762/119159985-a7a64e00-ba0c-11eb-8bee-297f3dd5d91d.jpg)
 
 16 video / image feed viewer. Listed from 1 - 16 in horizontal order.
+
 Feeds with the flower displayed are able to resize into bigger sizes by using the sliders on the CONTROLS sections.
 [FEEDS 6, 8, 11, 12, 14 & 16]
+
 Switch out template image and video with your own in the INPUT_FEEDS section. Just connect your TOP movie / image file to the
 corresponding feed.
 
@@ -18,6 +20,9 @@ FX turns on an effect for corresponding feed, certain FX require more GPU usage 
 
 All Kill buttons are kill switchers; switching the corresponding feed to noise unless button is turned off. 
 [KILL 8 kills FEED 8]
+
+Sliders resize corresponding window into a different size.
+[TOP SCREENS = 6, 8; MIDDLE SCREENS = 11, 12; BOTTOM SCREENS = 14, 16.]
 
 Color ON / OFF turns border colors on or off.
 
