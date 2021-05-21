@@ -24,5 +24,5 @@ Color ON / OFF turns border colors on or off.
 Included within folder are TouchOSC layouts which can be used to control whole system via TouchOSC for both tablet and mobile.
 [Check that OSC ports are correct in CONTROLS section]
 
-![Screen Shot 2021-05-21 at 8 23 41 AM](https://user-images.githubusercontent.com/68321762/119164534-62384f80-ba11-11eb-8398-6ccfe9eab5ed.png)
+![Screen Shot 2021-05-21 at 8 23 41 AM](https://user-images.githubusercontent.com/68321762/119165026-e7bbff80-ba11-11eb-9d62-90bf080312aa.png)
 ![Screen Shot 2021-05-21 at 8 47 37 AM](https://user-images.githubusercontent.com/68321762/119164605-73815c00-ba11-11eb-925c-1b5171d914bb.png)
