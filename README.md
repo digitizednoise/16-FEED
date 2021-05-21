@@ -25,4 +25,3 @@ Included within folder are TouchOSC layouts which can be used to control whole s
 [Check that OSC ports are correct in CONTROLS section]
 
 ![Screen Shot 2021-05-21 at 8 54 22 AM](https://user-images.githubusercontent.com/68321762/119165399-4aad9680-ba12-11eb-9ccb-d7920cfa4401.png)
-![Screen Shot 2021-05-21 at 8 47 37 AM](https://user-images.githubusercontent.com/68321762/119164605-73815c00-ba11-11eb-925c-1b5171d914bb.png)
